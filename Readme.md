@@ -40,5 +40,4 @@ The vision behind this project is to **demonstrate the capabilities of decentral
 ## Contract Details
 
 Deployed contract address: ST23HV0ABFAWEAZB7NE9T50XM29PRMJH1Y8ZW3HCQ.con
-<img width="1427" height="716" alt="image" src="https://github.com/user-attachments/assets/b8d75782-8150-400f-a996-35be7c254a62" />
-
+![image](https://github.com/user-attachments/assets/6bd9729c-c362-4c08-967c-f914dd00509d)
