@@ -1,4 +1,3 @@
-# 🕹️ On-Chain Strategy Game
 # 🕹️ On-Chain Strategy Game  
 
 ## 📜 Project Description  
