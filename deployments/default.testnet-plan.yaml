@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: con
+            expected-sender: ST23HV0ABFAWEAZB7NE9T50XM29PRMJH1Y8ZW3HCQ
+            cost: 103140
+            path: contracts/con.clar
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.1"
